@@ -20,7 +20,14 @@ h1, h2, h3 {
 label {
     font-size: 18px;
 }
+p, div, span, input, textarea {
+    color: #444444;
+}
 </style>
+""", unsafe_allow_html=True)
+
+""", unsafe_allow_html=True)
+
 """, unsafe_allow_html=True)
 
 # タイトル
